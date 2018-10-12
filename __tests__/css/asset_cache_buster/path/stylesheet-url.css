@@ -1,0 +1,5 @@
+body {
+  background: url('/stylesheets/barney-v123.gif') center center no-repeat; }
+
+#barney {
+  content: "/stylesheets/barney-v123.gif"; }

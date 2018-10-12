@@ -1,0 +1,7 @@
+body {
+  background: stylesheet-url('barney.gif') center center no-repeat;
+}
+
+#barney {
+  content: '#{stylesheet-url('barney.gif', $only-path: true)}';
+}
